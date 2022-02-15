@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Slides
 uid: 43ca0394-6b9c-9ca4-62ea-5d4c36a2dd2b
 ---
@@ -24,10 +27,10 @@ SLIDES
 {{< tdopen >}}
 1
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Choice, Preference, and Utility
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 ["Choice, Preference, and Utility" Lecture Slides (PDF)]({{< baseurl >}}/resources/mit14_121f15_1s)
 {{< tdclose >}}
 
@@ -42,14 +45,14 @@ Choice, Preference, and Utility
 {{< tdopen >}}
 3
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 Consumer Theory and its Applications
 
 
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 ["Consumer Theory" Lecture Slides (PDF)]({{< baseurl >}}/resources/mit14_121f15_2s)
 {{< tdclose >}}
 
@@ -73,10 +76,10 @@ Consumer Theory and its Applications
 {{< tdopen >}}
 6
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Producer Theory and Monotone Methods
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 ["Monotone Comparative Statistics, with Applications to Producer Theory" Lecture Slides (PDF)]({{< baseurl >}}/resources/mit14_121f15_4s)
 {{< tdclose >}}
 
@@ -91,7 +94,7 @@ Producer Theory and Monotone Methods
 {{< tdopen >}}
 8
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 Choice Under Uncertainty
 {{< tdclose >}}
 {{< tdopen >}}
