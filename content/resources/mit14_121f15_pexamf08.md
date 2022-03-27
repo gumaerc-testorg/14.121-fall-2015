@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 57a00e44-e16c-ba00-c908-b225455f1e04
 resourcetype: Document
 title: '14.121 Microeconomic Theory I: Exam 2008'
 uid: 039f4389-1c7a-9ae3-b740-32cf733be15b
