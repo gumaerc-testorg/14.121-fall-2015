@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics and the slides used
+  for each session.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Slides
 uid: 43ca0394-6b9c-9ca4-62ea-5d4c36a2dd2b
 ---
@@ -24,11 +29,11 @@ SLIDES
 {{< tdopen >}}
 1
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Choice, Preference, and Utility
 {{< tdclose >}}
-{{< tdopen >}}
-["Choice, Preference, and Utility" Lecture Slides (PDF)]({{< baseurl >}}/resources/mit14_121f15_1s)
+{{< tdopen rowspan="2" >}}
+{{% resource_link b89cf6eb-8d21-18d0-15d4-e41278ede14a "\"Choice, Preference, and Utility\" Lecture Slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,15 +47,15 @@ Choice, Preference, and Utility
 {{< tdopen >}}
 3
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 
 
 Consumer Theory and its Applications
 
 
 {{< tdclose >}}
-{{< tdopen >}}
-["Consumer Theory" Lecture Slides (PDF)]({{< baseurl >}}/resources/mit14_121f15_2s)
+{{< tdopen rowspan="2" >}}
+{{% resource_link ea9f11b1-5ace-05e7-bfd3-1d58ae48beb9 "\"Consumer Theory\" Lecture Slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -65,7 +70,7 @@ Consumer Theory and its Applications
 5
 {{< tdclose >}}
 {{< tdopen >}}
-["Applications of Consumer Theory" Lecture Slides (PDF)]({{< baseurl >}}/resources/mit14_121f15_3s)
+{{% resource_link 1b0f90b4-fdad-a651-48ed-d1e4b16aab18 "\"Applications of Consumer Theory\" Lecture Slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -73,11 +78,11 @@ Consumer Theory and its Applications
 {{< tdopen >}}
 6
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Producer Theory and Monotone Methods
 {{< tdclose >}}
-{{< tdopen >}}
-["Monotone Comparative Statistics, with Applications to Producer Theory" Lecture Slides (PDF)]({{< baseurl >}}/resources/mit14_121f15_4s)
+{{< tdopen rowspan="2" >}}
+{{% resource_link 098a320a-59e3-6314-b045-6cd175a4e8eb "\"Monotone Comparative Statistics, with Applications to Producer Theory\" Lecture Slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -91,11 +96,11 @@ Producer Theory and Monotone Methods
 {{< tdopen >}}
 8
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="4" >}}
 Choice Under Uncertainty
 {{< tdclose >}}
 {{< tdopen >}}
-["Expected Utility Theory" Lecture Slides (PDF)]({{< baseurl >}}/resources/mit14_121f15_5s)
+{{% resource_link 2cdfea3b-b4b4-83f4-6c57-3a5a2ed4cc1d "\"Expected Utility Theory\" Lecture Slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -104,7 +109,7 @@ Choice Under Uncertainty
 9
 {{< tdclose >}}
 {{< tdopen >}}
-["Attitudes Towards Risk" Lecture Slides (PDF)]({{< baseurl >}}/resources/mit14_121f15_6s)
+{{% resource_link 07a55960-9869-398f-c6f9-8e550a9d2d80 "\"Attitudes Towards Risk\" Lecture Slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -113,7 +118,7 @@ Choice Under Uncertainty
 10
 {{< tdclose >}}
 {{< tdopen >}}
-["Comparing Risky Prospects" Lecture Slides (PDF)]({{< baseurl >}}/resources/mit14_121f15_7s)
+{{% resource_link 3fa37c38-172e-c1fd-120d-909b5ea988bd "\"Comparing Risky Prospects\" Lecture Slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -122,7 +127,7 @@ Choice Under Uncertainty
 11
 {{< tdclose >}}
 {{< tdopen >}}
-["Critiques of Expected Utility" Lecture Slides (PDF)]({{< baseurl >}}/resources/mit14_121f15_8s)
+{{% resource_link 1ac0e413-3adb-6b8d-4523-c875ba24e94b "\"Critiques of Expected Utility\" Lecture Slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -134,7 +139,7 @@ Choice Under Uncertainty
 Dynamic Choice
 {{< tdclose >}}
 {{< tdopen >}}
-["Dynamic Choice and Time-Inconsistency" Lecture Slides (PDF)]({{< baseurl >}}/resources/mit14_121f15_9s)
+{{% resource_link 4e886392-7b0d-0e9c-32ae-589db6adda57 "\"Dynamic Choice and Time-Inconsistency\" Lecture Slides (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

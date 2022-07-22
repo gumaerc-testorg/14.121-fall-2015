@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides practice exams and a final exam from previous versions
+  of the course. Solutions are not provided.
+learning_resource_types:
+- Exams
+ocw_type: CourseSection
 title: Exams
 uid: 57a00e44-e16c-ba00-c908-b225455f1e04
 ---
@@ -24,7 +29,7 @@ FILES
 Final exam 2005
 {{< tdclose >}}
 {{< tdopen >}}
-[(PDF)]({{< baseurl >}}/resources/mit14_121f15_finalf05)
+{{% resource_link 8c53f4b3-0446-06ae-31d2-b22dff38dfd3 "(PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -33,7 +38,7 @@ Final exam 2005
 Practice exam 2008
 {{< tdclose >}}
 {{< tdopen >}}
-[(PDF)]({{< baseurl >}}/resources/mit14_121f15_pexamf08)
+{{% resource_link 039f4389-1c7a-9ae3-b740-32cf733be15b "(PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +47,7 @@ Practice exam 2008
 Practice exam 2009
 {{< tdclose >}}
 {{< tdopen >}}
-[(PDF)]({{< baseurl >}}/resources/mit14_121f15_pexamf09)
+{{% resource_link 9fdffd2d-04af-f156-7ff8-6c1d3ebb68ac "(PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
