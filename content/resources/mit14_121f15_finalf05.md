@@ -5,6 +5,7 @@ file: /courses/14-121-microeconomic-theory-i-fall-2015/8c53f4b3044606ae31d2b22df
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '14.121 Microeconomic Theory I: Final Exam 2005'
 uid: 8c53f4b3-0446-06ae-31d2-b22dff38dfd3
 ---
 This file contains information regarding practice final exam. 
-
