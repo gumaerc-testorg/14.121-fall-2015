@@ -13,7 +13,7 @@ Textbooks
 ---------
 
 *   \[MWG\] = Mas-Colell, Andreu, Michael Dennis Whinston, and Jerry R. Green. _Microeconomic Theory_. Vol. 1. Oxford University Press, 1995. ISBN: 9780195073409.
-*   \[Kreps\] = Kreps, David M. _Microeconomic Foundations I: Choice and Competitive Markets_. Vol. 1. Princeton University Press, 2012. ISBN: 9780691155838. \[Preview with [Google Books](http://books.google.com/books?id=8tW9KAnkx04C&pg=PAfrontcover)\]
+*   \[Kreps\] = Kreps, David M. _Microeconomic Foundations I: Choice and Competitive Markets_. Vol. 1. Princeton University Press, 2012. ISBN: 9780691155838. \[Preview with {{% resource_link "2c8c6380-646c-4679-a516-1f0ade24a9e6" "Google Books" %}}\]
 
 {{< tableopen >}}
 {{< theadopen >}}
