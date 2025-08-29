@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file contains information regarding practice exam 8. '
-file: /courses/14-121-microeconomic-theory-i-fall-2015/039f43891c7a9ae3b74032cf733be15b_MIT14_121F15_pexamf08.pdf
+file: /ol-ocw-studio-app/courses/14-121-microeconomic-theory-i-fall-2015/039f43891c7a9ae3b74032cf733be15b_MIT14_121F15_pexamf08.pdf
 file_size: 135152
 file_type: application/pdf
 learning_resource_types:
